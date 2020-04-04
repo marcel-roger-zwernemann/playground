@@ -6,6 +6,9 @@
 
 using namespace std;
 
+/**
+ * Entry Point of Application
+ */
 int main()
 {
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};       
