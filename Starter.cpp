@@ -13,7 +13,7 @@ int main()
     for (const string& word : msg)
     {
         cout << word << " ";
-    }
+    }p
     cout << endl;    
 
     printComponent();
